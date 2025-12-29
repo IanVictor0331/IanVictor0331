@@ -1,5 +1,8 @@
 <h1>Hi, I'm Ian! <br/><a href="https://github.com/IanVictor0331">Programmer</a>, <br/><a href="https://www.linkedin.com/in/ian-victor-anak-nehemiah-belanda-kumbang-7a6b36395">Computer Science(Data Engineering) student</a>
 
+<h2>E-Porfolio :
+Github repository : https://github.com/IanVictor0331/E-portfolio/blob/main/README.md
+
 <h2>Game Development Projects:</h2>
 
 -Basic Player movement with finite state machine : https://github.com/IanVictor0331/Game_dev
